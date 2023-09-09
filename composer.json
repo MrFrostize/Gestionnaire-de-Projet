@@ -1,0 +1,16 @@
+{
+    "name": "elyes/gestion",
+    "description": "Gestion de projet",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MrFrostize",
+            "email": "45861264+MrFrostize@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
